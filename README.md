@@ -5,5 +5,5 @@ different data science projects. I used this to collect input data for my "Fake 
 
 Here i used my choice of news URL, please make sure you change the target URL as required. Once data collected we are also exporting data to MONGO DB. 
 
-Thanks,
+
 Vinod Kumar.
